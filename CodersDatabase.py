@@ -1,6 +1,6 @@
 from tkinter import *
 import PIL
-import sqlite3 #For Storing Data
+import sqlite3 #Performs all the operations which is required for this usecase as a database
 
 root= Tk() #root window is created
 root.title('Coding Database') #Title name of the project
